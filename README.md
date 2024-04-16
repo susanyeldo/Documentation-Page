@@ -5,8 +5,8 @@
 ## Contact Information
 - **Phone:** 9632496601
 - **Email:** susanna.yeldo@gmail.com
-- **LinkedIn:** [I'm an inline-style link with title](https://www.linkedin.com/in/susanna-yeldo-2196b9228/ "Susanna Yeldo LinkedIn")
-- **GitHub:** [I'm an inline-style link with title](https://github.com/susanyeldo "Susanna Yeldo Github")
+- **LinkedIn:** [Susanna Yeldo LinkedIn](https://www.linkedin.com/in/susanna-yeldo-2196b9228/ "Susanna Yeldo LinkedIn")
+- **GitHub:** [Susanna Yeldo Github](https://github.com/susanyeldo "Susanna Yeldo Github")
 
 ## Professional Summary
 My main interest lies in the domain of Machine Learning and enjoy optimising solution pipelines. Always on the lookout for new opportunities and challenges.
